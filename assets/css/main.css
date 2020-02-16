@@ -1219,16 +1219,14 @@ input[type="radio"] + label:before {
     .image.fit img {
       display: block;
       width: 100%; }
-  .image.avatar {
-    border-radius: 100%;
-    overflow: hidden; }
+  
     .image.avatar img {
       border-radius: 100%;
       display: block;
-      width: 100%; }
+      width: 200%;}
   .image.main {
     display: block;
-    height: 20em;
+    height: 22em;
     border-radius: 0; }
     .image.main img {
       border-radius: 0; }
@@ -2065,7 +2063,7 @@ main h4 {
 }
 
 header img {
-  max-height: 250px;
+  max-height: 200px;
   max-width: 200px;
 }
                       
