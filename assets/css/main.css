@@ -1372,6 +1372,11 @@ ul.feature-icons {
       top: 0;
       width: 2.5em; }
 
+    .petit {
+      font-size: 40px;
+      
+    }
+
 /* Icons */
 ul.icons {
   cursor: default;
