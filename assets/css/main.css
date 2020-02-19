@@ -1553,7 +1553,7 @@ input[type="button"],
 
     .papes {
       display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
 /* Features */
@@ -2121,6 +2121,11 @@ br {
 
     header img {
   margin-left: -40px;
+}
+
+.papes {
+  display: flex;
+  flex-direction: column; 
 }
 
 }
