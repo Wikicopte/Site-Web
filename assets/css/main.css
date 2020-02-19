@@ -1544,6 +1544,18 @@ input[type="button"],
     cursor: default;
     opacity: 0.25; }
 
+    .pape {
+      width: 150px;
+      height: 150px;
+      margin-top: 20px;
+      border-radius: 50%;
+    }
+
+    .papes {
+      display: flex;
+        justify-content: space-around;
+    }
+
 /* Features */
 .features article {
   border-top: solid 3px #f4f4f4;
